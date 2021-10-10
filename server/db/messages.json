@@ -1,0 +1,32 @@
+{
+  "messages": [
+    {
+      "messageId": "1",
+      "userId": "1",
+      "senderName": "Jeff",
+      "messageText": "What are you doing now?",
+      "createdAt": "2021-10-06"
+    },
+    {
+      "messageId": "2",
+      "userId": "2",
+      "senderName": "Katy",
+      "messageText": "I listen to music. The guys released a cool album!",
+      "createdAt": "2021-10-07"
+    },
+    {
+      "messageId": "bbq_TVIQ",
+      "createdAt": "2021-10-09T21:56:07.504Z",
+      "userId": "tYBGqojD",
+      "messageText": "rock, it's cool music😂",
+      "senderName": "Mike"
+    },
+    {
+      "messageId": "fnF7TqgN",
+      "createdAt": "2021-10-09T22:18:48.278Z",
+      "userId": "tYBGqojD",
+      "messageText": "Hi",
+      "senderName": "Nick"
+    }
+  ]
+}
